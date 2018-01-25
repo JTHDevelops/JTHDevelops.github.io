@@ -10,4 +10,5 @@ layout: default
   <div class="post-content">
     {{ content }}
   </div>
+  <h3><a href="/xmlns/">Back to XMLNS root.</a></h3>
 </article>

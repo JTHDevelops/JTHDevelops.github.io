@@ -1,8 +1,13 @@
 ---
-layout: page
+layout: page-xmlns
 title: CurseApp
-permalink: /xmlns/CurseApp
+permalink: /xmlns/CurseApp/
 ---
+The CurseApp namespace defines the complete grammer for CurseAppXML(.cax)
+files.  This namespace is reserved exclusively for this purpose. 
 
-## The curseapp namespace
-This 
+Initial implementation of the CurseApp namespace is not yet complete, but,
+when a fully serviceable XSD 1.1 compatible definition is availabe, it will
+be posted here at:
+
+[http://www.jthdevelops.com/xmlns/CurseApp/CurseApp.xsd](CurseApp.xsd)

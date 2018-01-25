@@ -11,7 +11,7 @@ dl, dd, ol, ul, figure {
  * Basic styling
  */
 body {
-  font: 400 24px/1.5 "Courier New", Courier, "Linux Libertine Mono Serif", monospace;
+  font: 400 20px/1.5 "Courier New", Courier, "Linux Libertine Mono Serif", monospace;
   color: #111;
   background-color: #fdfdfd;
   -webkit-text-size-adjust: 100%;
@@ -44,7 +44,7 @@ figure > img {
   display: block; }
 
 figcaption {
-  font-size: 21px; }
+  font-size: 17.5px; }
 
 /**
  * Lists
@@ -276,7 +276,7 @@ pre {
     margin-bottom: 30px; }
 
 .post-meta {
-  font-size: 21px;
+  font-size: 17.5px;
   color: #777777; }
 
 .post-link {
