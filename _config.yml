@@ -11,9 +11,11 @@ email: contact@jthdevelops.com
 description: > # this means to ignore newlines until "baseurl:"
   JTH Develops custom solutions to technical difficulties.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://jthdevelops.com" # the base hostname & protocol for your site
+url: "http://www.jthdevelops.com" # the base hostname & protocol for your site
+
 twitter_username: JTHDevelops
 github_username:  JTHDevelops
+
 
 # Build settings
 markdown: kramdown
