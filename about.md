@@ -1,8 +1,0 @@
----
-layout: page
-title: About
-permalink: /about/
-toplevel: yes
----
-
-JTH Develops is a software development of JTH Enterprises.

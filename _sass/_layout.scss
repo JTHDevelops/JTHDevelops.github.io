@@ -240,3 +240,17 @@
         }
     }
 }
+
+table td {
+	padding-left:0.5em;
+	padding-right:0.5em;
+	text-align:left;
+	vertical-align:top;
+}
+tr { border: 1px solid black; } 
+
+
+.page-footer-links {
+/*	width:100%; */
+	text-align:right;
+}
