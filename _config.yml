@@ -21,3 +21,5 @@ github_username:  JTHDevelops
 markdown: kramdown
 
 theme: jekyll-theme-slate
+
+include: [_pages, _pages/xmlns/jth/jth.xsd]

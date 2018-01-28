@@ -18,7 +18,8 @@ is a list of the open source projects on which we are currently working.
 |  Project    |  Description    |
 |:------------|:----------------|
 | [CurseApp](/projects/CurseApp)    | A library to enable glade-like ui design using a well defined XML grammar to describe a large collection of standardized widdgets. The full schema documentation can be found [here](/xmlns/CurseApp) |
-| [ProperType](/projects/ProperType) | A python library to enable easier type-restrictions properties for objects. |
+| [ProperType](/projects/ProperType) | A python library to enable easier type-restricted properties for objects. |
 |||
 |======+=======|
+|Notes:||
 || *XML Namespace information for all of our projects can be found [here](/xmlns/).* |

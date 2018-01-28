@@ -10,6 +10,7 @@ available XML Schema definitions.
 
 |:--|:-:|:-:|
 | NameSpace Name | - Prefix - | Fully Qualified Namespace
-|:---|:--:|:----
-| **CurseApp:** | ca: | [*http://www.jthdevelops.com/xmlns/CurseApp*](/xmlns/CurseApp)
+|:---|:--:|:----|
+|**jth:**| jth: | [*http://www.jthdevelops.com/xmlns/jth*](/xmlns/jth) |
+| **CurseApp:** | ca: | [*http://www.jthdevelops.com/xmlns/CurseApp*](/xmlns/CurseApp) |
 
