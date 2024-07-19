@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: JTH Develops
+title: JTH Develops Open Source Software
 email: contact@jthdevelops.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I will eventually have to rewrite this description
+  Home for the various Open Source endeavors of J.T. Hartzfeld.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://JTHDevelops.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  JTHDevelops
